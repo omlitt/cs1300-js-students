@@ -1,5 +1,5 @@
 var corsApiUrl = "https://cors-anywhere.herokuapp.com/";
-var apiToken = "?token=r27Vw5cmBe73mO0phoGNjWw2KNTl0yCg7Es4xK4Tt2E";
+var apiToken = "?token=" + "t";
 
 // CORS stands for "cross origin resource sharing" -- you'll be making http requests in order
 // DON'T CHANGE THIS: fetches the data from the API endpoint
